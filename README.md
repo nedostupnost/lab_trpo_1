@@ -1,1 +1,2 @@
-# lab_trpo_1
+Create simple graphics and display in the screen.
+ 
